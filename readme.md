@@ -1,8 +1,4 @@
-# Three.js Journey
-
-## Setup
-Download [Node.js](https://nodejs.org/en/download/).
-Run this followed commands:
+# Basic example of how to move a model via keyboard
 
 ``` bash
 # Install dependencies (only the first time)
