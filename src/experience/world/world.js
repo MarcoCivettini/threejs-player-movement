@@ -14,7 +14,6 @@ export default class World {
 
             // Setup
             this.floor = new Floor();
-            // this.fox = new Fox();
             this.soldier = new Soldier();
             this.enviroment = new Environment();
         })
