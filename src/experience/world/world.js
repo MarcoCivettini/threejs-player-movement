@@ -1,7 +1,6 @@
 import Experience from "../experience";
 import Environment from "./enviroment";
 import Floor from "./floor";
-import Fox from "./fox";
 import Soldier from "./soldier";
 
 export default class World {
